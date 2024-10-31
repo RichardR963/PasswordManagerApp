@@ -3,6 +3,9 @@
 ###############################################################################
 * text=auto
 
+# Ignore Bootstrap and jQuery files
+PasswordApp/Scripts/** linguist-vendored=true
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
